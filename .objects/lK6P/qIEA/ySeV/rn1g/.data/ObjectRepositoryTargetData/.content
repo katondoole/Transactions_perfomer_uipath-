@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-30i5NWL4Em7xKGSKc0AdA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="forms.office.com/Pages/ResponsePage.aspx" CVScreenId="0da6eb98-1b54-4314-ae1e-41a4107fdc93" CvElementArea="436, 932, 1103, 56" CvType="InputBox" DesignTimeRectangle="439, 935, 1095, 51" DesignTimeScaleFactor="1.5" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl aria-labelledby='QuestionId_r328617e9f9e34d06acbfb57d0e97ba82 QuestionInfo_r328617e9f9e34d06acbfb57d0e97ba82' tag='INPUT' type='' class='-as-66' placeholder='Enter your answer' aaname='' /&gt;" Guid="b1ebaca4-00a1-4654-8ce0-4fbc58623404" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Points Tracker' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="0da6eb98-1b54-4314-ae1e-41a4107fdc93" CvTextArea="407, 878, 21, 22" CvTextArgument="3." CvType="Text" DesignTimeRectangle="409, 872, 28, 30" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='3.' class='-ht-57' tag='SPAN' type='' check:innerText='3.' /&gt;" Guid="d330da5d-1e66-457a-add9-f7ac6d1e6a48" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="648987cfcfcc22791a1394cb0962cd8c.png" xmlns="">0Nqm1lWZoXECwSqDaj3DT6Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

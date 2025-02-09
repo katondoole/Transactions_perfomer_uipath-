@@ -1,0 +1,13 @@
+﻿{
+  "Name": "SHA256 Hash",
+  "Type": "Element",
+  "Id": "4JiUb5e2CU-ieGkgyQ9uwQ",
+  "Reference": "qAhahQ1MB0eEGJhd_sLNMA/4JiUb5e2CU-ieGkgyQ9uwQ",
+  "ParentRef": "qAhahQ1MB0eEGJhd_sLNMA/bnRc_BVfjUyG4SpaBB_HmQ",
+  "Created": "2025-02-09T14:57:15.432415Z",
+  "Updated": "2025-02-09T14:57:15.432415Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

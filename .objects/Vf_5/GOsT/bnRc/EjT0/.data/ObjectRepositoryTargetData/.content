@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1Bviw1tpYUqGy6LHwfEoCw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="tools.keycdn.com/sha256-online-generator" CVScreenId="6fb90918-ac86-461f-a4e9-9e557ec73179" CvElementArea="411, 609, 1103, 406" CvType="InputBox" DesignTimeRectangle="411, 614, 1095, 452" DesignTimeScaleFactor="1.5" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='value' tag='TEXTAREA' type='text' class='form-control' placeholder='FkHL7waU65ExKA92dxD3neap' aaname='' /&gt;" Guid="75285e47-a7b7-4277-a53e-ad81e8b917ef" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SHA256 Generator - Generate SHA256 Hash | KeyCDN Tools' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6fb90918-ac86-461f-a4e9-9e557ec73179" CvTextArea="410, 575, 119, 27" CvTextArgument="Input value" CvType="Text" DesignTimeRectangle="411, 566, 118, 36" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='' aaname='Input value' check:innerText='Input value' /&gt;" Guid="d7479f12-c580-4683-b19f-78fdf0377c00" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="5d371ed266d60fefbf24b6e9913863f1.png" xmlns="">0uLr6PNpO5kqqz-q659OOlw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

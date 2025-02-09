@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome SHA256 Generator - Generate SHA256 Has",
+  "Type": "Screen",
+  "Id": "bnRc_BVfjUyG4SpaBB_HmQ",
+  "Reference": "qAhahQ1MB0eEGJhd_sLNMA/bnRc_BVfjUyG4SpaBB_HmQ",
+  "ParentRef": "qAhahQ1MB0eEGJhd_sLNMA/GOsT4e904kGq5kC0yjB8CA",
+  "Created": "2025-02-09T14:41:44.2840097Z",
+  "Updated": "2025-02-09T14:41:44.2840097Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="OgON57O5HkuAL8uTAvgjlA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="forms.office.com/Pages/ResponsePage.aspx" CVScreenId="9f93641f-cd97-465c-bc45-a8f45884a8cf" CvElementArea="406, 519, 135, 65" CvTextArea="437, 540, 72, 21" CvTextArgument="Submit" CvType="Button" DesignTimeRectangle="409, 521, 130, 60" DesignTimeScaleFactor="1.5" ElementType="Button" FuzzySelectorArgument="&lt;webctrl class='css-179' tag='BUTTON' type='' aaname='Submit' check:innerText='Submit' /&gt;" Guid="c700e7a4-aef2-4b63-bc84-4d7d52ed969f" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Points Tracker' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="9f93641f-cd97-465c-bc45-a8f45884a8cf" CvTextArea="407, 614, 357, 18" CvTextArgument="Never give out your password. Report abuse" CvType="Text" DesignTimeRectangle="409, 611, 1155, 25" FuzzySelectorArgument="&lt;webctrl class='-a-186' parentid='form-main-content1' tag='DIV' type='' aaname='Never give out your password.' check:innerText='Never give out your password.Report abuse' /&gt;" Guid="49714f5c-625b-4056-a6fb-7d9f33dd9c1d" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="6e076e72e1b98dd84a31e9bc9bb428c3.png" xmlns="">0BF8fD7-oCEawpmZwdiopZA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

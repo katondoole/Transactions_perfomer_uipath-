@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="aDyN7wWNoUGBcSTpi1zuSQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="tools.keycdn.com/sha256-online-generator" CVScreenId="b48b9e61-0d7d-45b8-9808-8e26125d447c" CvElementArea="411, 628, 1103, 81" CvType="InputBox" DesignTimeRectangle="411, 629, 1095, 79" DesignTimeScaleFactor="1.5" FuzzySelectorArgument="&lt;webctrl tag='PRE' type='' class='mt-0 language-none' aaname='' /&gt;" Guid="84749461-1834-4a52-82e9-5b670542b643" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SHA256 Generator - Generate SHA256 Hash | KeyCDN Tools' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b48b9e61-0d7d-45b8-9808-8e26125d447c" CvTextArea="408, 597, 141, 19" CvTextArgument="SHA256 HASH" CvType="Text" DesignTimeRectangle="411, 594, 1095, 23" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' tag='P' class='small text-uppercase text-muted font-weight-semi-bold line-height-headings mb-2' aaname='SHA256 Hash' check:innerText='SHA256 HASH' /&gt;" Guid="7d39837a-63fc-4fad-a4ac-6e65decb32c2" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="eac32ee667d3f08ac3bb0262470f7120.png" xmlns="">086cgDfTC1EmVt9ISKabP9g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
